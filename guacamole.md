@@ -1,5 +1,5 @@
 #ingredients
 -avocadoooooooo
--lemon
+-lime
 -salt
 #instructions
